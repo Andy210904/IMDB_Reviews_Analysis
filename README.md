@@ -31,8 +31,10 @@ Dependencies such as `pandas`, `scikit-learn`, `seaborn`, will be auto-installed
   - R² Score
   - Mean Absolute Error (MAE)
   - Mean Squared Error (MSE)
+- **Visulization**:
+  - Scatter Plot for actual ratings vs predicted ratings
 
 ## Test Data also added to check for new values
-
+- Visualization for test cases with predicted vs actual ratings
 ---
 
