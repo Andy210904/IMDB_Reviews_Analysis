@@ -5,7 +5,7 @@ This project aims to build a machine learning model that predicts movie ratings 
 
 ---
 
-## ⚙️ How to Run (in Google Colab)
+## How to Run (in Google Colab)
 
 1. Open the `Movie_Rating_Prediction.ipynb` file on Google Collab.
 2. Upload the IMDB dataset on the files section in Google Collab
@@ -15,7 +15,7 @@ Dependencies such as `pandas`, `scikit-learn`, `seaborn`, will be auto-installed
 
 ---
 
-## 🧠 Features Used
+## Features Used
 
 - **Categorical Encoding**: Genre, director, and actor labels encoded with `LabelEncoder`.
 - **Director Success Rate**: Average rating of movies previously directed.
@@ -23,7 +23,7 @@ Dependencies such as `pandas`, `scikit-learn`, `seaborn`, will be auto-installed
 
 ---
 
-## 📊 Model & Evaluation
+## Model & Evaluation
 
 - **Model**: Random Forest Regressor (Scikit-learn)
 - **Metrics**:
